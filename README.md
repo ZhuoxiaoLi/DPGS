@@ -15,8 +15,8 @@ Below are selected images from the DSGS, showcasing the key features and outcome
 *The above image demonstrates the difference in point cloud quality between our method， 3DGS and SOTA MVS methods on the Urbanscene 3D artsci dataset.*
 
 ## DSM Generated from Point Clouds on the Urbanscene 3D Artsci Dataset Between Ours and Others
-![DSM Comparison on Urbanscene 3D Artsci Dataset](Images/artsci_pcd.png)
-
+![DSM Comparison on Urbanscene 3D Artsci Dataset](Images/artsci_dsm.png)
+*The above image demonstrates the difference in DSM quality between our method， 3DGS and SOTA MVS methods on the Urbanscene 3D artsci dataset. (a) ours; (b) 3DGS; (c) ACMMP; (d) OpenMVS; (e) Colmap.*
 
 ## Rendering Quality Comparison on the Urbanscene 3D Artsci Dataset Between Ours and 3DGS
 ![Rendering Quality Comparison 1](Images/arisci_1.png)
