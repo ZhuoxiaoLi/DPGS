@@ -12,7 +12,7 @@ Below are selected images from the DSGS, showcasing the key features and outcome
 
 ## Point Cloud Quality Comparison on the Urbanscene 3D Artsci Dataset Between Ours and 3DGS
 ![Point Cloud Quality Comparison on Urbanscene 3D Artsci Dataset](Images/artsci_pcd.png)
-*The above image demonstrates the difference in point cloud quality between our method and 3DGS on the Urbanscene 3D artsci dataset.*
+*The above image demonstrates the difference in point cloud quality between our method， 3DGS and SOTA MVS methods on the Urbanscene 3D artsci dataset.*
 
 ## Rendering Quality Comparison on the Urbanscene 3D Artsci Dataset Between Ours and 3DGS
 ![Rendering Quality Comparison 1](Images/arisci_1.png)
