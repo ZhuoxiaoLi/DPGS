@@ -1,4 +1,4 @@
-# Point-based Large-scale Reconstruction with Progressive Depth Prior 3D Gaussians
+# Point-based Large-scale Reconstruction with Progressive Point Cloud Partition and Depth Prior 3D Gaussians
 
 ## Project Overview
 
