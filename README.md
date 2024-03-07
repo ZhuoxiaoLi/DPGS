@@ -5,6 +5,16 @@
 
 Our approach addresses and overcomes the issues of artifacts, low accuracy in generated point clouds, and the inability to fully reconstruct fine details that 3D Gaussian Scales (3DGS) encounter in large-scale UAV oblique photography tasks. When compared to traditional Multi-View Stereo (MVS) methods, our method significantly improves the density of the generated point clouds where conditions permit, leading to an enhancement in both the final point cloud and rendering quality.
 
+## Download the Model
+To download our model, please click on the following link:
+[Artsci_ours](https://drive.google.com/file/d/1fUCYONOF3twYQFBm8404O8VAtBMUTyVC/view?usp=drive_link)
+
+## Viewing the Model
+If you have not compiled the [Official 3DGS Viewer](https://github.com/graphdeco-inria/gaussian-splatting), you are welcome to use a third-party online model viewer to view it: [PlayCanvas Model Viewer](https://playcanvas.com/model-viewer)
+
+
+
+
 Below are selected images from the DSGS, showcasing the key features and outcomes of our project.
 
 ## Comparisons of 3D Models on the Urbanscene 3D Campus Dataset Between Ours and OpenMVS
