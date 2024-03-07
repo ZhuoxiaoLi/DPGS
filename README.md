@@ -7,9 +7,14 @@ Our approach addresses and overcomes the issues of artifacts, low accuracy in ge
 
 ## Download the Model
 To download our model, please click on the following link:
-[Artsci_ours](https://drive.google.com/file/d/1fUCYONOF3twYQFBm8404O8VAtBMUTyVC/view?usp=drive_link)
+[Urbanscene 3D Artsci_ours](https://drive.google.com/file/d/1fUCYONOF3twYQFBm8404O8VAtBMUTyVC/view?usp=drive_link) [Urbanscene 3D Campus_DS8_ours](https://drive.google.com/file/d/1nUuyWE7OgZKo70J-Kg_aQ3Sufr9bWN4J/view?usp=drive_link)
 
-## Viewing the Model
+Because the campus model is too large, we can only release the model we generated after downsampling the image (DS 8), but the quality is still very good.
+
+
+
+
+### Viewing the Model
 If you have not compiled the [Official 3DGS Viewer](https://github.com/graphdeco-inria/gaussian-splatting), you are welcome to use a third-party online model viewer to view it: [PlayCanvas Model Viewer](https://playcanvas.com/model-viewer)
 
 
