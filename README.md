@@ -1,7 +1,7 @@
 # Point-based Large-scale Reconstruction with Progressive Point Cloud Partition and Depth Prior 3D Gaussians
 
 ## Project Overview
-![Project Demo](Images/campus1.gif) ![Project Demo](Images/campus2.gif) ![Project Demo](Images/campus3.gif)
+![Project Demo](Images/campus4.gif) ![Project Demo](Images/campus1.gif) ![Project Demo](Images/campus2.gif) ![Project Demo](Images/campus3.gif)
 
 Our approach addresses and overcomes the issues of artifacts, low accuracy in generated point clouds, and the inability to fully reconstruct fine details that 3D Gaussian Scales (3DGS) encounter in large-scale UAV oblique photography tasks. When compared to traditional Multi-View Stereo (MVS) methods, our method significantly improves the density of the generated point clouds where conditions permit, leading to an enhancement in both the final point cloud and rendering quality.
 
