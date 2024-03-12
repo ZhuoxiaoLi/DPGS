@@ -41,4 +41,7 @@ Below are selected images from the DSGS, showcasing the key features and outcome
 ![Rendering Quality Comparison 4](Images/arisci_4.png)
 *These images compare the rendering quality of our method against 3DGS on the Urbanscene 3D artsci dataset, showcasing the improvements our method offers.*
 
+## Example Point Cloud Squares on the Urbanscene 3D Campus Dataset
+![Point Cloud Squares](Images/campus_squares.png)
+
 The code will be made public upon acceptance of the paper.
